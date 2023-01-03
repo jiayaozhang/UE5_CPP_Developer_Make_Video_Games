@@ -17,6 +17,19 @@ Unreal Engine 5 C++ Developer: Learn C++ &amp; Make Video Games
 * Line Tracing and Collisions
 * While, For loop and Arrarys
 
+## Steps for creating the scene
+1. Modular Level Design & Layout
+2. Lumen Lighting & Light Bleed 
+3. Character Blueprint & Actor Component
+4. Pointer Types & GetOwner() & Arrow Operator
+5. FMathVInterpConstantTo & Scene Components
+6. Line Tracing & Sweeping
+7. Get World() & DrawDebugLine()
+8. Geometry Sweeping & FindComponentByClass() & DrawDebugSphere() 
+9. TArray, While, For Loops, Actor Tags
+10. Add and Remove Tags, Boolean Logical Operators, Level Polish 
+11. Crypt Raider Wrap-up
+
 ## The first scene while enter the room
 
 ![image](https://user-images.githubusercontent.com/38579506/210294175-7f6cae43-7761-4598-a19d-b5991dcb9cfb.png)
