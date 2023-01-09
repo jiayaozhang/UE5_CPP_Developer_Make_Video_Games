@@ -1,6 +1,8 @@
 # CryptRaider
 Unreal Engine 5 C++ Developer: Learn C++ &amp; Make Video Games
 
+Video Links: https://www.udemy.com/course/unrealcourse/?ranMID=39197&ranEAID=ue*79h9bSBU&ranSiteID=ue.79h9bSBU-P0zS7._gOTrh3wbPXDe.fw&LSNPUBID=ue*79h9bSBU&utm_source=aff-campaign&utm_medium=udemyads
+
 ## Action Plan
 * Creatt our level design (including lighting)
 * Make a "Mover" component for our dooors
